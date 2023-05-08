@@ -1,6 +1,9 @@
 # DS210FinalProject
+
 Rukevwe Omusi
+
 5/7/23
+
 Report describing what data set you picked, what interesting thing you discovered, what algorithms you implemented and anything else you consider relevant 
 
 The data set I picked is an Amazon product co-purchasing network collected from the Amazon website based on the site’s Customers Who Bought This Item Also Bought feature. 
