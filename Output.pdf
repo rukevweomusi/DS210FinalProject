@@ -1,0 +1,12 @@
+Output:
+
+Vertex 45: approximate PageRank 0.002453730100100646
+Product { id: "45", asin: "1861007418", title: "Beginning ASP.NET Databases using C#", group: "Book", similar: ["5", "1861006098", "1861007329", "0764543776", "1861007191", "1861007868"], categories: ["6"], reviews: "total: 4  downloaded: 4  avg rating: 4" }
+Customers who liked product 45 may also like [1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044, 1045]
+Product { id: "1036", asin: "1881940667", title: "The Shurley Method: English Made Easy : Level 1", group: "Book", similar: ["5", "1881940640", "1881940624", "1881940608", "1591410959", "1881940586"], categories: ["2"], reviews: "total: 0  downloaded: 0  avg rating: 0" }Customers who liked product 1036 may also like [45, 1037, 1038, 1039, 1042, 1043, 1044, 2745, 2746, 2747]
+Vertex 1037: approximate PageRank 0.002276831088216483
+Product { id: "1037", asin: "0415914655", title: "Naked Science: Anthropological Inquiry into Boundaries, Power, and Knowledge", group: "Book", similar: ["4", "0534512461", "0060926317", "0446600253", "0520235509"], categories: ["2"], reviews: "total: 0  downloaded: 0  avg rating: 0" }Customers who liked product 1037 may also like [45, 1036, 1038, 1039, 1042, 1043, 1044, 1734, 2746, 6301]
+Vertex 1039: approximate PageRank 0.0019794791196696034
+Product { id: "1039", asin: "1855326574", title: "German Medieval Armies 1000-1300 (Men-at-Arms Series)", group: "Book", similar: ["5", "0850456142", "1855321270", "1855328488", "1841761443", "0850453062"], categories: ["4"], reviews: "total: 0  downloaded: 0  avg rating: 0" }Customers who liked product 1039 may also like [45, 1036, 1037, 1038, 1040, 1041, 1044, 1615, 1616, 4052]
+Vertex 50: approximate PageRank 0.001813661085687938
+Product { id: "50", asin: "B00004W1WK", title: "Still Life", group: "Music", similar: ["5", "B00062P5GG", "B0002XEDSA", "B00005QK46", "B0006Q0XIM", "B0000072LP"], categories: ["1"], reviews: "total: 1  downloaded: 1  avg rating: 5" }Customers who liked product 50 may also like [49, 52, 105, 174, 175, 1632, 1741, 1934, 2491, 2492]
