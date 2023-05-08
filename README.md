@@ -19,4 +19,4 @@ Because of the extremely large data set, the program takes about 12 minutes to r
 
 The dataset had a small enough file size to be pushed to Github. The data set file is Amazon0601.txt. The metadata file is here: https://snap.stanford.edu/data/amazon-meta.html 
 
-
+I discovered some interesting connections between items that customers bought such as anime movie DVDs like DBZ being connected with rock music and other connections while sifting through all of the data entries. I also saw a very low tendency to rate anything lower than 4, if ratings were given at all.
