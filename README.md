@@ -17,6 +17,6 @@ had music products like “Alive to Every Smile” and “Alaska”. The neighbo
 “Science and Poetry” and  “Learning in Overdrive: Designing Curriculum, Instruction, and Assessment from Standards : A Manual for Teachers".
 Because of the extremely large data set, the program takes about 12 minutes to run.
 
-The dataset had a small enough file size to be pushed to Github. The metadata file is here: https://snap.stanford.edu/data/amazon-meta.html 
+The dataset had a small enough file size to be pushed to Github. The data set file is Amazon0601.txt. The metadata file is here: https://snap.stanford.edu/data/amazon-meta.html 
 
 
